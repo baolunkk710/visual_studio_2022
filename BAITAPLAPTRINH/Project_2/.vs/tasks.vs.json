@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Source3",
+      "appliesTo": "Source3.cpp",
+      "type": "launch"
+    }
+  ]
+}

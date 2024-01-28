@@ -7,7 +7,7 @@ int main()
  // doan code xu ly
     int i = 1; // bien i se la bien ch?y tu 1 den 10
    
-    while (i <= 10)// (logic)
+    while (i <= 100)// (logic)
     {
         cout << i << " ";
         i++;
